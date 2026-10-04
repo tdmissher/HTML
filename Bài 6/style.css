@@ -1,0 +1,1151 @@
+#nen {
+   width: 1440px;
+   height:5984.97px;
+}
+#nen_xanh_head {
+    width:1440px;
+    height:700px;
+    background-color: #52705E;
+    display:flex;
+    justify-content: center;
+    padding-top:200px;
+}
+#suon_head {
+    width: 1104px;
+    height:515px;
+    padding-top:40px;
+    display:flex;
+    gap: 100px;
+}
+#khung_chu {
+    width:552px;
+    height: 450px;
+}
+#zendesk {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size:11px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#FFFFFF;
+    margin-top:30px
+}
+#tieu_de {
+    font-family:'Arial',sans-serif;
+    font-weight:700;
+    font-size: 67px;
+    line-height:80px;
+    letter-spacing:0%;
+    color:#FFFFFF;
+    margin-top: 20px;
+}
+#duoi_tieu_de {
+    font-family:'Arial',sans-serif;
+    font-weight:700;
+    font-size:19px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color:#FFFFFF;
+    margin-top: -50px
+}
+#contact_sales {
+    width:167.66px;
+    height: 48px;
+    background-color: #ECE0CE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer
+
+}
+#contact_sales p {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size:17px;
+    line-height:28px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#view_demo {
+    width:145.27px;
+    height:44.5px;
+    border:2px solid #ECE0CE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer
+}
+#view_demo p {
+    font-family: 'Arial',sans-serif;
+    font-weight:700;
+    font-size:17px;
+    line-height:28px;
+    letter-spacing: 0%;
+    color:#ECE0CE;
+}
+#can_ngang_nut {
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+    padding:5px;
+}
+#khung_tranh {
+    width: 379px;
+    height: 512px;
+}
+#khung_tranh img {
+    width: 379px;;
+    height: 512px;;
+}
+#khung_logo {
+    width:1440px;
+    height: 166px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+#khung_customer_exp {
+    width: 1440px;
+    height:94px;
+}
+#khung_tieu_de_cus_exp {
+    text-align: center;
+}
+#khung_tieu_de_cus_exp p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_tieu_de_cus_exp h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size:29px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    color:#03363D
+}
+#hang_ngang_cus_exp {
+    display:flex;
+    flex-direction: row;
+    margin-left:200px;
+    margin-top:100px;
+}
+#khung_drive {
+    width: 352px;
+    height: 356px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#khung_drive img {
+    width: 64px !important;
+    height: 64px !important;
+}
+#khung_drive h1 {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color:#03363D;
+    margin-bottom:40px;
+}
+#khung_drive p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#17494D;
+    margin-top:-15px
+}
+#khung_drive h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-decoration: underline;
+    color:#17494D;
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}
+#khung_drive img {
+    width: 24px;
+    height:24px;
+    cursor:pointer;
+}
+#khung_maximize {
+    width: 352px;
+    height: 356px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#khung_maximize img {
+    width: 64px !important;
+    height: 64px !important;
+}
+#khung_maximize h1 {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color:#03363D;
+    margin-bottom:40px;
+}
+#khung_maximize p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#17494D;
+    margin-top:-15px
+}
+#khung_maximize h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-decoration: underline;
+    color:#17494D;
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}
+#khung_maximize img {
+    width: 24px;
+    height:24px;
+    cursor:pointer;
+}
+#khung_adapt {
+    width: 352px;
+    height: 356px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#khung_adapt img {
+    width: 64px !important;
+    height: 64px !important;
+}
+#khung_adapt h1 {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color:#03363D;
+    margin-bottom:40px;
+}
+#khung_adapt p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#17494D;
+    margin-top:-15px
+}
+#khung_adapt h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-decoration: underline;
+    color:#17494D;
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}
+#khung_adapt img {
+    width: 24px;
+    height:24px;
+    cursor:pointer;
+}
+#khung_platform {
+    width:1440px;
+    height: 575px;
+    background-color: #F8F9F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 30px;
+}
+#khung_platform img {
+    width: 444px;
+    height: 444px;
+}
+#khung_text_platform {
+    width: 552px;
+    height: 306px;
+}
+#khung_text_platform h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_text_platform h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 56px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_text_platform p  {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size:16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#17494D
+}
+#khung_text_platform h3 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height:28px;
+    letter-spacing: 0%;
+    color:#17494D;
+    display:flex;
+    align-items: center;
+    cursor:pointer
+}
+#khung_text_platform img {
+    width: 24px;
+    height: 24px;
+    cursor:pointer;
+}
+#khung_evaluate {
+    width: 1440px;
+    height: 427px;
+    background-color: #F8F9F9;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#khung_nen_eva {
+    width: 1088px;
+    height: 299px;
+    background-color: #03363D;
+    display:flex;
+    flex-direction: row;
+    gap: 24px;
+}
+#khung_nen_eva img  {
+    width: 168px;
+    height: 168px;
+    margin-top: 64px;
+    margin-left: 56px;
+}
+#column_van_ban {
+    display:flex;
+    flex-direction: column;
+    margin-top: 80px;
+}
+#khung_nen_eva h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color:#FFFFFF;
+}
+#khung_nen_eva p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#FFFFFF;
+}
+#khung_roi {
+    width:185.94px;
+    height: 40px;
+    background-color: #ECE0CE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 129.5px;
+    margin-left: 50px;
+    cursor:pointer
+}
+#khung_roi p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_security {
+    width: 1440px;
+    height: 497.98px;
+    background-color: #FFFFFF;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#khung_noi_dung_security {
+    width: 1104px;
+    height:369.98px;
+    display:flex;
+    flex-direction: row;
+}
+#text_security {
+    display:flex;
+    flex-direction: column;
+    width: 552px;
+    height: 250px;
+}
+#text_security h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size:12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#text_security h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size:43px;
+    line-height: 56px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#text_security p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size:16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#17494D;
+}
+#text_security h3 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size:16px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color:#17494D;
+    display:flex;
+    align-items: center;
+    cursor:pointer
+}
+#text_security img {
+    width: 24px !important;
+    height: 24px !important;
+    margin-left: 10px !important;
+    cursor:pointer
+}
+#khung_noi_dung_security img {
+    width: 444px;
+    height:369.98px;
+    margin-left:100px
+}
+#khung_tailor {
+    width: 1440px;
+    height: 658px;
+    background-color: #F8F9F9;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+#khung_tieu_de_tailor {
+    width: 736px;
+    height: 110px;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top:-70px;
+}
+#khung_tieu_de_tailor h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_tieu_de_tailor h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 56px;
+    letter-spacing: 0%;
+    color:#03363D;
+    margin-top: 10px;
+}
+#khung_noi_dung_tailor {
+    width:1104px;
+    height: 356px;
+    display:flex;
+    flex-direction: row;
+    margin-top: -50px;
+}
+#khung_partner {
+    width: 536px;
+    height: 450px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:50px;
+}
+#khung_partner img {
+    width: 64px;
+    height: 64px;
+}
+#khung_partner h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing:0%;
+    color:#03363D;
+    margin-top: 20px;
+    margin-bottom:50px
+}
+#khung_partner p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing:0%;
+    color:#17494D;
+    margin-top:-15px;
+}
+#khung_partner h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing:0%;
+    color:#17494D;
+    cursor: pointer;
+    text-decoration:underline;
+    display:flex;
+    align-items: center;
+    margin-top:2px
+}
+#khung_partner h2 img {
+    width: 24px;
+    height: 24px;
+    cursor:pointer;
+}
+#khung_industry {
+    width: 536px;
+    height: 450px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:50px;
+}
+#khung_industry img {
+    width: 64px;
+    height: 64px;
+}
+#khung_industry h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing:0%;
+    color:#03363D;
+    margin-top: 20px;
+    margin-bottom:50px
+}
+#khung_industry p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing:0%;
+    color:#17494D;
+    margin-top:-15px;
+}
+#khung_industry h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing:0%;
+    color:#17494D;
+    cursor: pointer;
+    text-decoration:underline;
+    display:flex;
+    align-items: center;
+}
+#khung_industry h2 img {
+    width: 24px;
+    height: 24px;
+    cursor:pointer
+}
+#khung_business {
+    width:1440px;
+    height:1006.98px;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+#khung_tieu_de_business {
+    width: 736px;
+    height: 110px;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top:60px
+}
+#khung_tieu_de_business h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_tieu_de_business h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 56px;
+    letter-spacing: 0%;
+    color:#03363D;
+    margin-top: 10px;
+}
+#khung_thuong_hieu {
+    width:1088px;
+    height:43px;
+    margin-top:100px;
+    display:flex;
+    flex-direction: row;
+    gap:10px
+}
+.mui_ten {
+    width: 24px;
+    height: 24px;
+    cursor:pointer;
+}
+#icon {
+    cursor:pointer
+}
+#khung_text_business {
+    width: 720px;
+    height: 518px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+#text {
+    width:472.25px;
+    height: 86px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#text p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color:#17494D;
+    margin-top: -10px;
+}
+#khung_robin {
+    width:293.67px;
+    height: 82px;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top:50px
+}
+#khung_robin h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_robin h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color:#17494D;
+}
+#khung_robin h3 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#17494D;
+    text-decoration: underline;
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}
+#khung_robin h3 img {
+    width:24px;
+    height:24px;
+    cursor:pointer;
+}
+#khung_thong_so {
+    width:490.66px;
+    height: 136px;
+    display:flex;
+    flex-direction: row;
+    margin-top:60px;
+    gap: 20px;
+}
+#khung_15 {
+    width:106.66px;
+    height:90px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#khung_15 h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_15 h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:#17494D;
+}
+#khung_1000 {
+    width:106.66px;
+    height:73px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#khung_1000 h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_1000 h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:#17494D;
+}
+#khung_4 {
+    width:106.66px;
+    height:90px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#khung_4 h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_4 h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:#17494D;
+}
+#khung_83 {
+    width:106.66px;
+    height:90px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#khung_83 h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_83 h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:#17494D;
+}
+#khung_action {
+    width: 1440px;
+    height: 572px;
+    background-color: #587052;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:100px
+}
+#khung_zendesk_action {
+    width: 552px;
+    height: 128px;
+    display:flex;
+    flex-direction: column;
+}
+#khung_zendesk_action h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 56px;
+    letter-spacing: 0%;
+    color:#FFFFFF;
+}
+#can_ngang_nut_2 {
+    width: 536px;
+    height: 48px;
+    display:flex;
+    flex-direction: row;
+    gap:20px
+}
+#khung_request {
+    width:171.19px;
+    height: 48px;
+    background-color: #ECE0CE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer
+}
+#khung_request p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_contact_sales {
+    width:167.66px;
+    height:44.5px;
+    border:2px solid #ECE0CE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer
+}
+#khung_contact_sales p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color:#ECE0CE;
+}
+#khung_action img {
+    width: 444px;
+    height:444px
+}
+#khung_nen_foot {
+    width:1440px;
+    height:705;
+    background-color: #F8F9F9;
+    display:flex;
+    justify-content: center;
+}
+#khung_foot {
+    width: 1120px;
+    height: 800px;
+    display:flex;
+    flex-direction: column;
+}
+#khung_champion {
+    width:1088px;
+    height:516px;
+    margin-left:16px;
+    display:flex;
+    flex-direction: column;
+}
+#khung_champion img {
+    width: 32px;
+    height: 32px;
+    margin-top: 64px;
+}
+#khung_service {
+    width: 1104px;
+    height: 397px;
+    display:flex;
+    flex-direction: row;
+    margin-top:30px;
+    gap: 50px;
+}
+#khung_service h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#khung_product {
+    width:184px;
+    height: 397px;
+    display:flex;
+    flex-direction: column;
+    margin-top: 8px;
+}
+#khung_product h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_product p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color:#68737D;
+    margin-top: 5px;
+}
+#khung_top {
+    width:184px;
+    height: 397px;
+    display:flex;
+    flex-direction: column;
+    margin-top: 8px;
+}
+#khung_top h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_top p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color:#68737D;
+    margin-top: 5px;
+}
+#khung_res {
+    width:184px;
+    height: 397px;
+    display:flex;
+    flex-direction: column;
+    margin-top: 8px;
+}
+#khung_res h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_res p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color:#68737D;
+    margin-top: 5px;
+}
+#khung_company {
+    width:184px;
+    height: 397px;
+    display:flex;
+    flex-direction: column;
+    margin-top: 8px;
+}
+#khung_company h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_company p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color:#68737D;
+    margin-top: 5px;
+}
+#khung_favorite {
+    width:184px;
+    height: 397px;
+    display:flex;
+    flex-direction: column;
+    margin-top: 8px;
+}
+#khung_favorite h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color:#03363D;
+}
+#khung_favorite p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color:#68737D;
+    margin-top: 5px;
+}
+#ke_ngang {
+    border: none;
+    background-color: #C2C8CC;
+    width: 1120px;
+    height:1px;
+    margin-top:120px
+}
+#khung_enter_the_fold {
+    width: 1104px;
+    height: 64px;
+    display:flex;
+    flex-direction: row;
+}
+#text_enter {
+    width: 260px;
+    height: 56px;
+    display:flex;
+    flex-direction: column;
+}
+#text_enter h1 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color:#03363D;
+}
+#text_enter h2 {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color:#17494D;
+    margin-top:-5px
+}
+#khung_input_name {
+    width: 444px;
+    height: 48px;
+    display:flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left:40px
+}
+#khung_input_name input {
+    width:309.84px;
+    height: 43.5px;
+    background-color: #F8F9F9;
+    border-radius: 1px solid #68737D;
+    color:#C2C8CC;
+    font-size:15px;
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    line-height:100%;
+    letter-spacing: 0%;
+    opacity:0.5;
+    padding-left:10px
+}
+#button {
+    width:134.16px;
+    height: 48px;
+    background-color: #17494D;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer
+}
+#button p {
+    color:#FFFFFF;
+    font-family: 'Arial',sans-serif;
+    font-size:17px;
+    font-weight:700;
+    line-height: 28px;
+    letter-spacing: 0%;
+} 
+#logo_platform {
+    width: 232px;
+    height: 32px;
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+    margin-left:150px
+}
+#logo_platform img {
+    width: 32px;
+    height: 32px;
+    margin-top: 20px;
+    cursor:pointer
+}
+#notice {
+    width: 1104px;
+    height: 28px;
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top:30px
+}
+#notice p {
+    font-family: 'Arial',sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color:#68737D
+}

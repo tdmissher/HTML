@@ -1,0 +1,359 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #F9F9F9;
+  width: 100%;
+  min-height: 100vh;
+  min-width: 1440px;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+.nen {
+  width: 1440px;
+  min-height: 1024px;
+  background-color: #F9F9F9;
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+}
+
+.thanh_menu {
+  width: 121px;
+  height: 1024px;
+  position: relative;
+  left: -43px;
+  opacity: 1;
+  background: #FFFFFF;
+  border-right: 1px solid #EFEFEF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 155px;
+  gap: 16px;
+}
+
+.menu {
+  width: 100%;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+  color:#292D32;
+  cursor:pointer;
+}
+
+.menu.khung_xanh {
+  background: rgba(65, 130, 249, 0.1); 
+}
+
+.menu.khung_xanh img {
+  opacity: 1;
+}
+
+.thanh_ngang {
+  flex: 1;
+  padding: 32px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-left: -43px;
+  min-width: 1276px;
+}
+
+.welcome {
+  width: 100%;
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.welcome h1 {
+  font-weight: 500;
+  font-size: 24px;
+  color: #3E435D;
+  line-height: 100%;
+  margin-bottom: 8px;
+}
+
+.welcome .date {
+  font-weight: 300;
+  font-size: 16px;
+  color: #ADA7A7;
+  line-height: 100%;
+}
+
+.chao {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.o_tim_kiem {
+  width: 354px;
+  height: 52px;
+  background: #FFFFFF;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  gap: 16px;
+  color: #ADA7A7;
+  font-size: 16px;
+}
+
+.o_tim_kiem input {
+  border: none;
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  color: #3E435D;
+}
+
+.o_tim_kiem input::placeholder {
+  color: #ADA7A7;
+}
+
+.chuong {
+  width: 52px;
+  height: 52px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  border:none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor:pointer;
+}
+
+.picture {
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.khung_duoi {
+  width: 100%;
+  background: #FFFFFF;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.02);
+}
+
+.khung_mau {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  display: block;
+}
+
+.khung_noi_dung {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.khung_noi_dung_be {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row_avatar {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.row_avatar img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.alexa h2 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+  line-height: 100%;
+  margin-bottom: 8px;
+}
+
+.alexa .gmail {
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+  line-height: 100%;
+}
+
+.edit {
+  width: 93px;
+  height: 44px;
+  background: #4182F9;
+  border-radius: 8px;
+  border: none;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 400;
+  cursor:pointer;
+}
+
+.edit:hover {
+  background: #2b6ce8;
+}
+
+.khung_nhap_lieu {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 32px;
+  row-gap: 25px;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.group label {
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+
+.chon {
+  width: 100%;
+  height: 52px;
+  background: #F9F9F9;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.chon input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  color: #3E435D;
+}
+
+.chon input::placeholder {
+  color: #ADA7A7;
+}
+
+.o_lua_chon {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.o_lua_chon input {
+  width: 100%;
+  padding-right: 30px;
+}
+
+.bieu_tuong_mui_ten {
+  position: absolute;
+  right: 16px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+  transform: rotate(0deg);
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bieu_tuong_mui_ten::before {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-right: 1.5px solid #292D32;
+  border-bottom: 1.5px solid #292D32;
+  transform: rotate(45deg);
+  margin-top: -3px;
+}
+
+.email-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 5px;
+}
+
+.section-title {
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+
+.email-item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.email-icon {
+  width: 48px;
+  height: 48px;
+  background: rgba(65, 130, 249, 0.1);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #4182F9;
+  font-size: 20px;
+}
+
+.email-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.email-info .address {
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+
+.email-info .time {
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.nut_them_email {
+  width: 209px;
+  height: 44px;
+  background: rgba(65, 130, 249, 0.1);
+  border-radius: 8px;
+  border: none;
+  color: #4182F9;
+  font-size: 16px;
+  font-weight: 400;
+  align-self: flex-start;
+}
+
+.nut_them_email:hover {
+  background: rgba(65, 130, 249, 0.2);
+}
